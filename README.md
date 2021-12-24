@@ -1,6 +1,6 @@
 # Programmer Doge
 
-Love programming? Love Doge? Meet programmer doge!!
+Love programming? Love Doge? Meet programmer doge!! 🐶🐶🐶
 
 ## Try it yourself!
 
