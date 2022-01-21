@@ -8,7 +8,7 @@ https://jonathancng.github.io/Programmer-Doge/
 
 ## Sample
 
-<img src="sample.jpg"/>
+<img src="doge-sample.gif"/>
 
 ## Tools Used
 
